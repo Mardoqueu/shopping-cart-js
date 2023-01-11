@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Shopping Cart page in JavaScript
+> Shopping cart page in JavaScript built for best practices for bootcamp eldorado
 
 ### 🏠 [Homepage](https://github.com/Mardoqueu/shopping-cart-js)
 
