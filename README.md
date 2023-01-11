@@ -20,6 +20,14 @@
 * Github: [@mardoqueu](https://github.com/mardoqueu)
 * LinkedIn: [@mardoqueu-sousa](https://linkedin.com/in/mardoqueu-sousa)
 
+## Instrutor
+
+👤 **Rodrigo Alves**
+
+
+* Github: [@profalves](https://github.com/profalves)
+* LinkedIn: [@rodrigoalvesdev](https://linkedin.com/in/rodrigoalvesdev)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
